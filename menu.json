@@ -1,0 +1,8 @@
+{"menu": [
+    {"id": 1, "name": "Ayam", "category": "Protein", "price": 35000, "stock":15},
+    {"id": 2, "name": "Sapi", "category": "Protein", "price": 65000, "stock":10},
+    {"id": 3, "name": "Durian", "category": "Buah", "price": 45000, "stock":12},
+    {"id": 3, "name": "Anggur", "category": "Buah", "price": 5000, "stock":20},
+    {"id": 3, "name": "Bayam", "category": "Sayur", "price": 7000, "stock":50},
+    {"id": 3, "name": "Sawi", "category": "Sayur", "price": 45000, "stock":80}
+    ]}
